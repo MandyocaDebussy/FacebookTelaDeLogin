@@ -2,5 +2,6 @@
 
 <p id="description">Criei esta tela de login do facebook com base nas funcionalidades do framawork TailwindCss.</p>
 <br>
-![image](90736206/80088bb9-ca32-4526-81a4-350e39221566)
+<img src="https://github.com/MandyocaDebussy/FacebookTelaDeLogin/assets/90736206/be09029a-7a55-45b5-9c6d-b29e6a398c82"/>
+">
 
