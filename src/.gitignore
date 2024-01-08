@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# Tailwind CSS generated files
+/dist/
+/build/
+
+# Optional npm cache directory
+.npm
+
+# dotenv environment variables file
+.env
+
